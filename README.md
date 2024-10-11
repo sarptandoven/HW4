@@ -5,8 +5,6 @@
 
 **WatIAM**: sdoven
 
-**Notes to TA:** I was unable to commit and push from the web codespace, I've made the changes manually on github by adding the python files and editing README. If you launch the codespace, you should see the code there, but it has not been able to be pushed to the main branch.
-
 
 Acknowledgment of Receiving Assistance or Use of Others' Ideas
 --------------------------------------------------------------
